@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="ftp.consolidaibl.com.br" local="130734314829053351" remote="130819937400000000" Dst="1" />
+<file name=".scrutinizer.yml" server="ftp.consolidaibl.com.br" local="130734314829063351" remote="130819937400000000" Dst="1" />
+<file name=".travis.yml" server="ftp.consolidaibl.com.br" local="130734314829243351" remote="130819937400000000" Dst="1" />
+<file name="PHPMailerAutoload.php" server="ftp.consolidaibl.com.br" local="130734314839973351" remote="130819938000000000" Dst="1" />
+<file name="LICENSE" server="ftp.consolidaibl.com.br" local="130734314848263351" remote="130819938000000000" Dst="1" />
+<file name="README.md" server="ftp.consolidaibl.com.br" local="130734314848303351" remote="130819938000000000" Dst="1" />
+<file name="changelog.md" server="ftp.consolidaibl.com.br" local="130734314862923351" remote="130819937400000000" Dst="1" />
+<file name="class.smtp.php" server="ftp.consolidaibl.com.br" local="130734314872493351" remote="130819937400000000" Dst="1" />
+<file name="class.pop3.php" server="ftp.consolidaibl.com.br" local="130734314873893351" remote="130819937400000000" Dst="1" />
+<file name="class.phpmailer.php" server="ftp.consolidaibl.com.br" local="130734314881593351" remote="130819937400000000" Dst="1" />
+<file name="composer.json" server="ftp.consolidaibl.com.br" local="130734314882383351" remote="130819937400000000" Dst="1" />
+<file name="travis.phpunit.xml.dist" server="ftp.consolidaibl.com.br" local="130734315261533351" remote="130819938000000000" Dst="1" />
+</dwsync>

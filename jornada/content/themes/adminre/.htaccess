@@ -1,0 +1,20 @@
+# index file can be index.php, home.php, default.php etc.
+DirectoryIndex index.php
+
+# Rewrite engine
+RewriteEngine On
+RewriteOptions MaxRedirects=2
+
+
+
+# Does the file exist?
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule .? - [S=1]
+# IF the file exists, then:
+# Skip past the "else" stanza.
+RewriteRule .? - [S=1]
+# ELSE...
+RewriteRule (.*) home/index.php?file=$1
+# END

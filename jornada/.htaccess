@@ -1,0 +1,11 @@
+# index file can be index.php, home.php, default.php etc.
+DirectoryIndex index.php
+
+# Rewrite engine
+RewriteEngine On
+
+# condition with escaping special chars
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|robots\.txt)
+
+RewriteRule ^(.*)$ index.php?/$1 [L] 
