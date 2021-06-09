@@ -1,6 +1,0 @@
-# index file can be index.php, home.php, default.php etc.
-DirectoryIndex index.php
-
-# Rewrite engine
-RewriteEngine Off
-
